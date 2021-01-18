@@ -1,5 +1,6 @@
 # Cryptocurrency-price-CLI
 It is a command line index based application developed using node.js to show the price of cryptocurrency on command line
+All the prices of latest bitcoins and other currency are auto updated as we are fetching data from comics api
 Command line interface written in Node.js to check cryptocurrency prices
 
 Register an API key at https://nomics.com and you will get your api key at your mailbox
